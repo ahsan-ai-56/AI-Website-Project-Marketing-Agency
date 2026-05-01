@@ -39,11 +39,16 @@ Fast and user-friendly interface
 
  ## Screenshots 
  
-Homepage
+### Homepage
 
-Services section
-Contact page
+![Homepage](Home.jpeg)
 
+### Services section
+
+![Services](Services.jpeg)
+### Contact page
+
+![Contact](Contact.jpeg)
 ## Live Website
 
 https://pulse-marketing-agency.lovable.app/
